@@ -16,18 +16,18 @@ Clean code does
 - Help us retain our sanity
 
 
-Question 1 (mult. choice):
-Clean code...
+Question 1 (mult. choice):   
+Clean code...   
 
-[ ]...makes your program faster
-[ ]...makes the game you're developing more fun
-[X]...is easier to work with as a developer
-[ ]...can only be written by Uncle Bob
+[ ]...makes your program faster   
+[ ]...makes the game you're developing more fun   
+[X]...is easier to work with as a developer   
+[ ]...can only be written by Uncle Bob   
 
-Question 2 (mult. choice):
-The primary goal of OOP is to...
+Question 2 (mult. choice):   
+The primary goal of OOP is to...   
 
-[ ]...write faster code
-[X]...write cleaner code
-[ ]...store less data
-[ ]...objectify people
+[ ]...write faster code   
+[X]...write cleaner code   
+[ ]...store less data   
+[ ]...objectify people   
