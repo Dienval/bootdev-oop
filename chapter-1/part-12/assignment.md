@@ -1,0 +1,1 @@
+Add a constructor to our Wall class. It should take depth, height and width as parameters, in that order, and set them as properties. It should also compute an additional property called volume. Volume is the depth times height times width.
